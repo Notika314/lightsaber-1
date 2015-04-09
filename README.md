@@ -1,6 +1,6 @@
 # UNIX COMMANDS
      
-## 1.PRINTENV
+## PRINTENV
   
 The printenv command lists a number of environment variables .
 
@@ -8,18 +8,18 @@ The printenv command lists a number of environment variables .
  
  printenv HOME  - display the location of the current user's home directory
  
-## 2.EXPORT :
+## EXPORT :
  
  You can add a new environment variable with export command: 
  
- $ export MYAPP=1
+ #### $ export MYAPP=1
  
  Then you can check if the var was set properly with "$ echo $MYAPP "
  
  Also it's possible to append value to existent variable, like :
  
- $ export PATH=$PATH:/home/himanshu/practice/
+ #### $ export PATH=$PATH:/home/himanshu/practice/
  
- 3.ARGV are command-line arguments . The are passed to program by the shell. 
+ ## ARGV are command-line arguments . The are passed to program by the shell. 
  
- 4.ENVIRONMENT VARIABLES. All the variables that we see entering printenv. Some of them are : SHELL, PATH, USER.
+ ## ENVIRONMENT VARIABLES. All the variables that we see entering printenv. Some of them are : SHELL, PATH, USER.
