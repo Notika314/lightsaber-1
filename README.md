@@ -20,4 +20,6 @@ The printenv command lists a number of environment variables .
  
  $ export PATH=$PATH:/home/himanshu/practice/
  
- 3.ARGV are command-line arguments . The are passed to program by the shell.
+ 3.ARGV are command-line arguments . The are passed to program by the shell. 
+ 
+ 4.ENVIRONMENT VARIABLES. All the variables that we see entering printenv. Some of them are : SHELL, PATH, USER.
