@@ -12,7 +12,7 @@ The printenv command lists a number of environment variables .
  
  You can add a new environment variable with export command: 
  
-##### $ export MYAPP=1
+##### `<addr>`$ export MYAPP=1
  
  Then you can check if the var was set properly with "$ echo $MYAPP "
  
