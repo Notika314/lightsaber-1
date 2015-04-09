@@ -1,6 +1,6 @@
-     UNIX COMMANDS
+#UNIX COMMANDS
      
- 1.PRINTENV
+ ##1.PRINTENV
   
 The printenv command lists a number of environment variables .
 
@@ -8,7 +8,7 @@ The printenv command lists a number of environment variables .
  
  printenv HOME  - display the location of the current user's home directory
  
- 2.EXPORT :
+ ##2.EXPORT :
  
  You can add a new environment variable with export command: 
  
