@@ -18,3 +18,5 @@ The printenv command lists a number of environment variables .
  Also it's possible to append value to existent variable, like :
  
  $ export PATH=$PATH:/home/himanshu/practice/
+ 
+    ARGV are command-line arguments . The are passed to program by the shell.
